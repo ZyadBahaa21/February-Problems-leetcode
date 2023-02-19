@@ -1,2 +1,2 @@
 # February-Problems-leetcode
-Solution of problems in the Daily LeetCoding Challenge for January.
+Solution of problems in the Daily LeetCoding Challenge for February.
